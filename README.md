@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MySite
 
 You can use the [editor on GitHub](https://github.com/venus25/My_Site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
